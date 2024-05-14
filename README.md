@@ -18,7 +18,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 8. Enter the constructor parameters (tokenName, tokenSymbol, initialSupply).
 9. Click "Deploy".
 
-## Auuthor
+## Author
 April Cadag
 
 ## License
